@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ContaHub.API/ContaHub.API.csproj" />
+  <Project Path="ContaHub.Application/ContaHub.Application.csproj" />
+  <Project Path="ContaHub.Domain/ContaHub.Domain.csproj" />
+  <Project Path="ContaHub.Infrastructure/ContaHub.Infrastructure.csproj" />
+</Solution>
